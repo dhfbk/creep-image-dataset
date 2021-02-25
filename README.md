@@ -1,4 +1,4 @@
-# Multimodal dataset of potentially offensive comments to images
+# Multimodal dataset of potentially offensive comments and images
 
 In order to study online hate speech, the availability of datasets containing the linguistic
 phenomena of interest are of crucial importance.
