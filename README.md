@@ -7,7 +7,7 @@ may be problematic due to issues with consent and privacy restrictions.
 Furthermore, while text-only datasets of this kind have been widely created and shared, limitations
 set by image-based social media platforms like Instagram make it difficult for researchers to
 with multimodal hate speech data.
-We therefore created a multimodal dataset of images and potentially offensive comments in Italian,
+We therefore developed a multimodal dataset of images and potentially offensive comments in Italian,
 created during awareness-raising activities in classes by students between 15 and 18 years old.
 The dataset was created using the CREENDER tool (Palmero Aprosio et al., 2020).
 
