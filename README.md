@@ -33,8 +33,5 @@ The dataset consists in a unique json file containing an array of records, each 
 * vector: a list of 512 float numbers representing the picture, using ResNet-18 network pre-trained
   on ImageNet as the image encoder.
 
-## Authors
-
-* Alessio Palmero Aprosio
-* Stefano Menini
-* Sara Tonelli
+## Publications
+Stefano Menini, Alessio Palmero Aprosio and Sara Tonelli. A Multimodal Dataset of Images and Text to Study Abusive Language. In Proceedings of the Seventh Italian Conference on Computational Linguistics (CLiC-it 2020), Bologna, Italy
